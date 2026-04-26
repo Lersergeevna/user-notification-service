@@ -1,0 +1,7 @@
+C:\Users\Lera\IdeaProjects\user-notification-service-clean\src\test\java\notificationservice\api\NotificationEmailApiFailureIntegrationTest.java
+C:\Users\Lera\IdeaProjects\user-notification-service-clean\src\test\java\notificationservice\api\NotificationEmailApiSuccessIntegrationTest.java
+C:\Users\Lera\IdeaProjects\user-notification-service-clean\src\test\java\notificationservice\api\NotificationEmailApiValidationIntegrationTest.java
+C:\Users\Lera\IdeaProjects\user-notification-service-clean\src\test\java\notificationservice\health\NotificationServiceHealthIntegrationTest.java
+C:\Users\Lera\IdeaProjects\user-notification-service-clean\src\test\java\notificationservice\kafka\KafkaNotificationDeliveryIntegrationTest.java
+C:\Users\Lera\IdeaProjects\user-notification-service-clean\src\test\java\notificationservice\kafka\KafkaNotificationIdempotencyIntegrationTest.java
+C:\Users\Lera\IdeaProjects\user-notification-service-clean\src\test\java\notificationservice\support\AbstractGreenMailIntegrationTest.java
